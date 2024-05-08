@@ -1,5 +1,5 @@
 {
-  "name": "coffetea",
+  "name": "kay-testnet",
   "version": "1.2.2",
   "scripts": {
     "dev": "next dev",
